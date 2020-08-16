@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are Some Things that I'm Working on:  
+# Geospatial :globe_with_meridians:
+[geotiff.io](https://github.com/GeoTIFF/geotiff.io), [georaster](https://github.com/GeoTIFF/geoblaze), [georaster-layer-for-leaflet](https://github.com/GeoTIFF/georaster-layer-for-leaflet), [geoblaze](https://github.com/GeoTIFF/geoblaze), [geoblaze-cli](https://github.com/GeoTIFF/geoblaze-cli), [geotiff-stats](https://github.com/GeoTIFF/geotiff-stats)
+
+# Python <img src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" height="30px" width="30px"> 
+[date-extractor](https://github.com/DanielJDufour/date-extractor), [language-detector](https://github.com/DanielJDufour/language-detector)
+
+# Compression
+[dynachar](https://github.com/danieljdufour/dynachar), [fast-bin](https://github.com/danieljdufour/fast-bin), [fast-rle](https://github.com/danieljdufour/fast-rle)
