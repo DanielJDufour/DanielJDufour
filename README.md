@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are Some Things that I'm Working on:  
-# Geospatial :globe_with_meridians:
-[geotiff.io](https://github.com/GeoTIFF/geotiff.io), [georaster](https://github.com/GeoTIFF/geoblaze), [georaster-layer-for-leaflet](https://github.com/GeoTIFF/georaster-layer-for-leaflet), [geoblaze](https://github.com/GeoTIFF/geoblaze), [geoblaze-cli](https://github.com/GeoTIFF/geoblaze-cli), [geotiff-stats](https://github.com/GeoTIFF/geotiff-stats)
+Here are Some Things that I'm Working on:   
 
-# Python <img src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" height="30px" width="30px"> 
-[date-extractor](https://github.com/DanielJDufour/date-extractor), [language-detector](https://github.com/DanielJDufour/language-detector)
+**GeoSpatial** :globe_with_meridians: [geotiff.io](https://github.com/GeoTIFF/geotiff.io), [georaster](https://github.com/GeoTIFF/geoblaze), [georaster-layer-for-leaflet](https://github.com/GeoTIFF/georaster-layer-for-leaflet), [geoblaze](https://github.com/GeoTIFF/geoblaze), [geoblaze-cli](https://github.com/GeoTIFF/geoblaze-cli), [geotiff-stats](https://github.com/GeoTIFF/geotiff-stats)
 
-# Compression
-[dynachar](https://github.com/danieljdufour/dynachar), [fast-bin](https://github.com/danieljdufour/fast-bin), [fast-rle](https://github.com/danieljdufour/fast-rle)
+**Language Processing** :books: [date-extractor](https://github.com/DanielJDufour/date-extractor), [language-detector](https://github.com/DanielJDufour/language-detector)
+
+**Compression** :dvd: [dynachar](https://github.com/danieljdufour/dynachar), [fast-bin](https://github.com/danieljdufour/fast-bin), [fast-rle](https://github.com/danieljdufour/fast-rle), [rle-serializers](https://github.com/DanielJDufour/rle-serializers)
+
+**Environment Management** :seedling: [djenv](https://github.com/danieljdufour/djenv), [simple-env](https://github.com/DanielJDufour/simple-env)
