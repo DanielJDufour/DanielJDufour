@@ -24,3 +24,5 @@ Here are Some Things that I'm Working on:
 **Compression** :dvd: [dynachar](https://github.com/danieljdufour/dynachar), [fast-bin](https://github.com/danieljdufour/fast-bin), [fast-rle](https://github.com/danieljdufour/fast-rle), [rle-serializers](https://github.com/DanielJDufour/rle-serializers)
 
 **Environment Management** :seedling: [djenv](https://github.com/danieljdufour/djenv), [simple-env](https://github.com/DanielJDufour/simple-env)
+
+**Small Python Libraries**: :snake: [prune](https://github.com/danieljdufour/prune), [shear](https://github.com/danieljdufour/shear)
