@@ -26,3 +26,5 @@ Here are Some Things that I'm Working on:
 **Environment Management** :seedling: [djenv](https://github.com/danieljdufour/djenv), [simple-env](https://github.com/DanielJDufour/simple-env)
 
 **Small Python Libraries**: :snake: [prune](https://github.com/danieljdufour/prune), [shear](https://github.com/danieljdufour/shear)
+
+**Small JavaScript Libraries** : :hatched_chick: [easy-script-loader](https://github.com/danieljdufour/easy-script-loader), [easy-file-saver](https://github.com/danieljdufour/easy-file-saver), [get-byte](https://github.com/danieljdufour/get-byte)
