@@ -21,7 +21,7 @@ Here are Some Things that I'm Working on:
 
 **Language Processing** :books: [date-extractor](https://github.com/DanielJDufour/date-extractor), [language-detector](https://github.com/DanielJDufour/language-detector)
 
-**Compression** :dvd: [dynachar](https://github.com/danieljdufour/dynachar), [fast-bin](https://github.com/danieljdufour/fast-bin), [fast-rle](https://github.com/danieljdufour/fast-rle), [rle-serializers](https://github.com/DanielJDufour/rle-serializers), [fast-max](https://github.com/DanielJDufour/fast-max), [fast-counter](https://github.com/DanielJDufour/fast-counter)
+**Compression** :dvd: [dynachar](https://github.com/danieljdufour/dynachar), [fast-bin](https://github.com/danieljdufour/fast-bin), [fast-rle](https://github.com/danieljdufour/fast-rle), [rle-serializers](https://github.com/DanielJDufour/rle-serializers), [fast-max](https://github.com/DanielJDufour/fast-max), fast-min](https://github.com/DanielJDufour/fast-min), [fast-counter](https://github.com/DanielJDufour/fast-counter)
 
 **Environment Management** :seedling: [djenv](https://github.com/danieljdufour/djenv), [simple-env](https://github.com/DanielJDufour/simple-env)
 
