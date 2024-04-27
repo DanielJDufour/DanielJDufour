@@ -27,4 +27,4 @@ Here are Some Things that I'm Working on:
 
 **Small Python Libraries**: :snake: [prune](https://github.com/danieljdufour/prune), [shear](https://github.com/danieljdufour/shear)
 
-**Small JavaScript Libraries** : :hatched_chick: [easy-script-loader](https://github.com/danieljdufour/easy-script-loader), [easy-file-saver](https://github.com/danieljdufour/easy-file-saver), [get-byte](https://github.com/danieljdufour/get-byte), [xml-utils](https://github.com/danieljdufour/xml-utils)
+**Small JavaScript Libraries** : :hatched_chick: [easy-script-loader](https://github.com/danieljdufour/easy-script-loader), [easy-file-saver](https://github.com/danieljdufour/easy-file-saver), [flug](https://github.com/danieljdufour/flug), [get-byte](https://github.com/danieljdufour/get-byte), [xml-utils](https://github.com/danieljdufour/xml-utils)
